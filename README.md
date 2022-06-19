@@ -19,6 +19,8 @@ A arquitetura de diretórios da aplicação segue a seguinte estrutura:
     ├── LICENSE
     └── README.md
     
+ A planilha utilizada na aplicação se encontra [aqui](https://docs.google.com/spreadsheets/d/1cPefI67Fc1XFJ9sKMp1Qkp5seBmo6vK8tiEwOKxc7Uc/edit#gid=0).
+ 
  ## :gear: Configurações 
  
  Para executar esta aplicação, você precisa dos seguintes pré-requisitos:
