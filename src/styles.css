@@ -92,7 +92,7 @@ body {
 
     color: #ffffff;
     opacity: 0.8;
-    transition: 3ms;
+    transition: 0.3s;
 
     cursor: pointer;
 
@@ -100,7 +100,7 @@ body {
 }
 
 #login h4:hover {
-    transition: 3ms;
+    transition: 0.3s;
     opacity: 1.0;
 }
 
@@ -113,6 +113,7 @@ body {
     flex-direction: column;
 
     padding: 65px;
+    padding-bottom: 50px;
 
     justify-content: center;
     align-items: center;
@@ -176,10 +177,12 @@ body {
 
     cursor: pointer;
     opacity: 0.8;
+    transition: 0.3s;
 }
 
 .search-container button:hover {
     opacity: 1.0;
+    transition: 0.3s;
 }
 
 #result-container {
