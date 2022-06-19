@@ -4,7 +4,7 @@
 
 Aplicação web client-side para a consulta do resultado final dos alunos do curso "Boas Escolhas Online" da [Safernet Brasil](https://new.safernet.org.br/), através do consumo da [Google Sheets API](https://developers.google.com/sheets/api).
 
-A arquitetura de diretórios da aplicação segue a seguinte estrutura:
+A arquitetura de diretórios segue a seguinte estrutura:
 
 
     .
