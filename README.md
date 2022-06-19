@@ -14,6 +14,7 @@ A arquitetura de diretórios da aplicação segue a seguinte estrutura:
     │   │   ├── safernet-icon.png
     │   │   └── safernet-logo.png
     │   ├── index.html
+    │   ├── index.js
     │   └── styles.css              
     ├── LICENSE
     └── README.md
